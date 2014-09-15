@@ -14,4 +14,6 @@ following functions for a given CA:
     
   GETCELL returns new value for cell left-clicked on by user
   
+  As an exmples, the life/ directory contains these functions written to implement Conway's Game of Life.
+  
   See for http://home.wlu.edu/~levys/software/ca/ additional details.
